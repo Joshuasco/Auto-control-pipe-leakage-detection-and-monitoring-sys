@@ -1,0 +1,5 @@
+over the years piping systems has being one of the major ways of transporting fluids in the form of liquid over distance places which has faced prevailing challenges yet to be fully address of which is Pipe Leakage either as a result of accidental damage or vandalization by theft inorder to gain unauthorized access.
+
+The auto control pipe Leakage Monitoring and detection system was designed and implemented to address this issues. it leaverages on IoT concept which is integrating a WhatsApp chat bot connected to an esp32 microcontroller through it's WIFI for real time monitoring, flow rate sensors attached to the pipe outlet at a specific distance which helps to detect the pipe Leakage at specific location using an experimented threshold and solenoids valve used as a control switch to either allow or disallow flow within a specific location.
+
+the microcontroller reads the flow rate sensor data at various points and when any in rregularity is detected, sends a a signal to the solenoids valve to either close or open it's valve as well as updates her user with the specific location on his/her WhatsApp
